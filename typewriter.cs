@@ -1,5 +1,5 @@
 body {
-  background: rgb(43,78,104);
+  background: rgb(0,0,0);
   color: rgb(220,220,220);
   font-family: 'Fira Code', monospace;
 }
